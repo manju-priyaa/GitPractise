@@ -1,1 +1,4 @@
-Hi this is just a practise note for git by Manjupriyaa
+Hi this is just a practise note for git by Manjupriyaa.
+ ok manju
+
+
